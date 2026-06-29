@@ -13,6 +13,7 @@ authors:
     orcid: "https://orcid.org/0009-0005-0553-7936"
 type: software
 license: CC-BY-4.0
+doi: 10.5281/zenodo.21049649
 repository-code: "https://github.com/hemjay07/clinical-trial-ai-eval-methodology"
 url: "https://github.com/hemjay07/clinical-trial-ai-eval-methodology"
 keywords:
