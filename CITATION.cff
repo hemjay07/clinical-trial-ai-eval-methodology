@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this methodology or build on it, please cite as below."
+title: "Clinical Trial AI Evaluation — Methodology Notes"
+abstract: >
+  A methodology note from designing one high-fidelity adversarial evaluation
+  case for AI systems performing cross-document clinical trial operations
+  work. Documents the design approach, validation results, and three
+  corrections caught during development. Contributed to the Raycaster
+  Expert Network; the methodology is published, the eval content is not.
+authors:
+  - family-names: "Opabode"
+    given-names: "Abdulmujeeb"
+    orcid: "https://orcid.org/0009-0005-0553-7936"
+type: software
+license: CC-BY-4.0
+repository-code: "https://github.com/hemjay07/clinical-trial-ai-eval-methodology"
+url: "https://github.com/hemjay07/clinical-trial-ai-eval-methodology"
+keywords:
+  - clinical AI evaluation
+  - benchmark methodology
+  - clinical trial operations
+  - adversarial evaluation
+  - LLM evaluation
+  - rubric design
+  - cross-document reasoning
+  - methodology refinement
+version: 1.0.0
+date-released: "2026-06-29"
