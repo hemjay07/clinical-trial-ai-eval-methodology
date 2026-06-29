@@ -1,5 +1,9 @@
 # Clinical Trial AI Evaluation — Methodology Notes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21049650.svg)](https://doi.org/10.5281/zenodo.21049650)
+
+
+
 A methodology note from designing one high-fidelity adversarial evaluation case for AI systems doing cross-document clinical trial operations work. Documents the design approach, validation results, and three corrections caught during development.
 
 The eval was contributed to the [Raycaster](https://doc.raycaster.ai) Expert Network, a program where domain experts build high-fidelity benchmark scenarios for AI evaluation. The specific evaluation content (artifacts, finding lists, rubric criteria, scoring keys) is not public. This repository documents the methodology that produced it.
@@ -41,7 +45,7 @@ Second, this is part of an ongoing portfolio of clinical AI evaluation work. A c
 
 ## Citation
 
-If you find this useful and want to cite it, see [`CITATION.cff`](CITATION.cff) for machine-readable metadata. A DOI is assigned via Zenodo and appears alongside this README once the first release is published.
+If you find this useful and want to cite it, see [`CITATION.cff`](CITATION.cff) for machine-readable metadata. The persistent DOI is [`10.5281/zenodo.21049649`](https://doi.org/10.5281/zenodo.21049649).
 
 ## Author
 
