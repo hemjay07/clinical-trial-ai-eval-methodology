@@ -27,5 +27,6 @@ See [`CITATION.cff`](CITATION.cff) for machine-readable citation metadata. The r
 Opabode, A. (2026). Clinical Trial AI Evaluation — Methodology Notes.
 Zenodo. https://doi.org/10.5281/zenodo.21049649
 ```
+The DOI above is the canonical citation reference. The repository at https://github.com/hemjay07/clinical-trial-ai-eval-methodology is the working source.
 
 A Zenodo DOI is assigned upon first release and should be used in formal citations when available. A more formal preprint covering the methodology arc may follow on arXiv.
